@@ -7,9 +7,11 @@
 $(function() {
 	
 	console.debug('document ready!');
-	
-	 $('#select').filterByText($('#textbox'), false);
+	$('#select').filterByText($('#textbox'), false);
 
-    
-    
+
+	 //asociar a todos los elementos con clase 'fecha' el datePicker de Jquery UI 
+		$( "input[data-widget='calendario']" ).datepicker();
+		console.debug('datePicker habilitado');
+	
   });
