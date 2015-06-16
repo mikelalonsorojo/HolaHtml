@@ -9,6 +9,11 @@ $(function() {
 	console.debug('document ready!');
 	$('#select').filterByText($('#textbox'), false);
 
+	
+	console.warn ('tinymce deshabilitado');
+ 	//tinymce.init({selector:'textarea'});
+
+	
 
 	 //asociar a todos los elementos con clase 'fecha' el datePicker de Jquery UI 
 		$( "input[data-widget='calendario']" ).datepicker();
