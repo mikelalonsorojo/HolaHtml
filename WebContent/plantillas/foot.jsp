@@ -40,9 +40,8 @@
  
  <!--  Convertir todos los TextAreas en TinyMce -->
  <script src="js/tinymce/tinymce.min.js"></script>
- <script>tinymce.init({selector:'textarea'});</script>
- 
-  <!--  Filter plugin -->
+  
+ <!--  Filter plugin -->
  <script src="js/filter_by_text.js"></script>
  
  <!--  Custom JavaScript despues de cargar todas las librerias  -->
