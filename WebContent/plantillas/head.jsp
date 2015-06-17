@@ -23,6 +23,12 @@
   
   	 <!-- Font Awesome  -->		
   	<link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.3.0/css/font-awesome.css">
+  	
+  <!-- Jquery UI  -->		
+  <link rel="stylesheet" type="text/css" href="js/jquery-ui-1.11.4.custom/jquery-ui.min.css">
+
+  <!-- Font Awesome  -->		
+  <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.3.0/css/font-awesome.css">
   
  	 <!-- Custom IconMoon  -->
   	<link rel="stylesheet" type="text/css" href="fonts/iconmoon/style.css">

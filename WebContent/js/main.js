@@ -19,4 +19,11 @@ $(function() {
 		$( "input[data-widget='calendario']" ).datepicker();
 		console.debug('datePicker habilitado');
 	
+	// asociar a todos los elementos input[data-widget='calendario']
+	// el datePicker de Jquery UI	
+	$("input[data-widget='calendario']").datepicker();	
+	console.info('datePicker habilitado');
+    
+    
+
   });
